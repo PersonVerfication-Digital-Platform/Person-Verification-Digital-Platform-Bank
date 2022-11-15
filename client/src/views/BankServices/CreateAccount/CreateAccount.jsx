@@ -9,7 +9,7 @@ const CreateAccount = () => {
     const navigate = useNavigate();
     function handleClick(){
         // alert("Clicking from createAccount");
-        navigate("/qr-scan");
+        navigate("/qr-scan/1");
     }
 
 

@@ -11,7 +11,7 @@ const CardRequest = () => {
 
   function handleClick() {
     // alert("Clicking from card request");
-    navigate("/qr-scan");
+    navigate("/qr-scan/3");
   }
   return (
     <div className={`${Styles["body"]}`}>

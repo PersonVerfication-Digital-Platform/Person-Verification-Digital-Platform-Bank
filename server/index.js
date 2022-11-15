@@ -15,7 +15,7 @@ require("dotenv").config();
 app.use(express.static("public"));
 app.use("/api/qr", qrRoute);
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3004;
 
 app.listen(PORT, () => {
   console.log("Listening to port number " + PORT);

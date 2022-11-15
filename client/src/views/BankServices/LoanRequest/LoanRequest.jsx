@@ -10,7 +10,7 @@ const LoanRequest = () => {
 
     function handleClick(){
         // alert("Clicking from bank loans");
-        navigate('/qr-scan');
+        navigate('/qr-scan/2');
     }
 
     return (
