@@ -19,7 +19,7 @@ export default function AppRouter() {
             <Route path="loan-request" element={<LoanRequest />} />
             <Route path="card-request" element={<CardRequest />} />
           </Route>
-          <Route path="qr-scan/:id" element={<QR />} />
+          <Route path="qr-scan" element={<QR />} />
           <Route path="blogs" element={<Home />} />
         </Route>
       </Routes>
