@@ -10,7 +10,7 @@ const QR = (navigation) => {
     <div style={{ margin: "10% auto", textAlign: "center" }}>
       <QRCode
         value={
-          "https://dawn-violet-3113.fly.dev/api/qr/id" +
+          "https://bank-2s26.onrender.com/api/qr/id" +
           "|" +
           location.state.service +
           "|" +
