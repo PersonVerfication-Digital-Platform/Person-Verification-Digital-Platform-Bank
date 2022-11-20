@@ -13,30 +13,57 @@
 
 ---
 
+<h2>Developer Guide</h2>
 <p>
-<h3>Prerequisites:</h3>
+<h3>1. Prerequisites:</h3>
 <ul>
 <li>NodeJS</li>
 <li>NPM</li>
 </ul>
 </p>
 
----
+
+<h1></h1>
+
 <p>
-<h3>Install Packages:</h3>
-<h6>Direct into the client folder which includes package.json and execute the command "npm install"</h6>
-<h6>Direct into the server folder which includes package.json and execute the command "npm install"</h6>
+<h3>2. Install Packages:</h3>
+
+  + Installing packages in front end
+
+    `$ cd client`
+
+    `$ npm install`
+
+  + Installing packages in back end
+
+
+    `$ cd server`
+
+    `$ npm install`
 
 </p>
 
----
+<h1></h1>
+
+
 <p>
-<h3>NPM Commands:</h3>
-<h6>Start Front end           :  Direct into the client folder which includes package.json and execute the command "npm start"</h6>
-<h6>Start Back end            :  Direct into the server folder which includes package.json and execute the command "npm start"</h6>
+<h3>3. NPM Commands:</h3>
+
++ Start Front end          
+
+  `$ cd client`
+
+  `$ npm start`
+
++ Start Back end   
+
+  `$ cd server`
+
+  `$ npm start`
 
 
 </p>
 
 
+<h1></h1>
 
